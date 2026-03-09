@@ -1,1 +1,1 @@
-This is a BCP drill test file
+Write-Host "BCP Drill Test Payload Executed" -ForegroundColor Green
